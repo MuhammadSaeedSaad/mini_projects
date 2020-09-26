@@ -15,4 +15,3 @@ def rename_files():
     os.chdir(saved_path)
 
 rename_files()
-print("hello")
