@@ -1,2 +1,2 @@
-# mini_projects
-Here i put my mini_projects or scripts.
+# micro_projects
+Here i put my micro_projects or scripts.
